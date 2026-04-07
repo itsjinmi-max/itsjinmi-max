@@ -17,11 +17,18 @@ Here are some ideas to get you started:
 
 
 
+
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120&text=MiJin&animation=twinkling&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=#b897ff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Dreaming in the code </h2>  
+
+
+
+    
+
+
+        
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello there.</li>I'm currently studying about Augmented reality.</li></li>Here i'm leaning about C also How to use Unity, Unreal, Github etc.</li></li>Hope i one day i can be a perfact Developer   </div> 
     </div>
     <div style="text-align: left;">
