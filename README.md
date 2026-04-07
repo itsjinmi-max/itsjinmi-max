@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=#b897ff&height=180&text=MiJin&animation=&fontColor=000000&fontSize=60" />
     </div>
@@ -24,8 +23,6 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> code life </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> keeping status to coding </div> 
     </div>
-   
-    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
